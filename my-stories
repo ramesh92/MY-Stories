@@ -66,5 +66,8 @@ step6: create a job to store artifacts under s3
       4. In the Post-build section, select 'Publish artifacts to s3bucket' and fill out the required details and save the job.
       5. Click on build now and monitor the job status.
       6. If everything is setup correctly , we can see the artifacts are uploaded to S3 bucket 
+      
+
+2. Backup
 
 
